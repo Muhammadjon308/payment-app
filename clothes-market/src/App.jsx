@@ -48,6 +48,7 @@ export default function App() {
           <button className="flex max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-10 w-10 bg-surface-light dark:bg-surface-dark text-text-light dark:text-text-dark gap-2 text-sm font-bold leading-normal tracking-[0.015em] min-w-0 px-2.5">
             <span className="material-symbols-outlined dark:hidden">dark_mode</span>
             <span className="material-symbols-outlined hidden dark:inline">light_mode</span>
+            <p>Link</p>
           </button>
         </div>
       </header>
